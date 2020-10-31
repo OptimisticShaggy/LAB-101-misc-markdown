@@ -36,11 +36,10 @@ Docker can be used for more than just testing reasons, it can be used for produc
 
 ### Docker Commands
 A few good Docker commands to get started with: 
-* `docker container`: Manage and View currently installed Conainers
-* `docker images`: Manage and view currently installed Images.
-* `docker networks`: Manage and view currently installed Networks.
-* `docker swarm`: Manage and view swarm information.
+* `docker container`Manage and View currently installed Conainers
+* `docker images`Manage and view currently installed Images.
+* `docker networks`Manage and view currently installed Networks.
+* `docker swarm`Manage and view swarm information.
 
 [^1]: Portainer Website: [Portainer](https://portainer.io)
-
 [^2]: LinuxServer Website: [LinuxServer](https://linuxserver.io)
