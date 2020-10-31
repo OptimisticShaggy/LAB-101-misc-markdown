@@ -25,7 +25,7 @@ This feature allows a user to run muliple containers with one command, orchestra
 Multiple computers with multiple containers, Swarms encompass more than just workers, you also needs managers. You could have multiple of both. Managers tell what the Workers to do, what process they should run.
 
 ## Personal Uses for Docker
-Docker can be used for more than just testing reasons, it can be used for production uses as well. Though, prodcution use cases is still questionable. You could easily package many different applications on your own and just run them. As time passes here; I plan on taking advantage of many images from this source, **LinuxServer** [^2]. A community of many users that implement different images consiting of many different applications,  shipped and ready to go. I would like to take a few of the Raspberry PI computers around my house and set up a swarm, consiting of many of these devices for not only backup purposes but also for smart home purposes. :smiley:
+Docker can be used for more than just testing reasons, it can be used for production uses as well. Though, prodcution use cases is still questionable. You could easily package many different applications on your own and just run them. As time passes here; I plan on taking advantage of many images from this source, **LinuxServer**[^2]. A community of many users that implement different images consiting of many different applications,  shipped and ready to go. I would like to take a few of the Raspberry PI computers around my house and set up a swarm, consiting of many of these devices for not only backup purposes but also for smart home purposes. :smiley:
 
 [^1]: Portainer Website: [Portainer](https://portainer.io)
 
